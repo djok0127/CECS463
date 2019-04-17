@@ -1,2 +1,2 @@
 # CECS463
-This is for the project and the homeworks for CECS 463
+Repository for the Digital Signal Processing Projects
